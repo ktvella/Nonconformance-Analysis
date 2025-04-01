@@ -1,0 +1,135 @@
+Number,(Location Generated),Ncm Date,Source,(Ncm Type),Nonconformance,(Disp Type),Closed,(Disp Enter By),(Product)
+40416,FINALINSP,01-01-2025 00:30,,APPPD - Appearance Per Description (Non-Molding),,Correct Paperwork,True,remerson,ITM1031
+40417,Area6WIP,01-01-2025 08:12,,COMPHD - Compound High Durometer,,Rework,True,jhancock,ITM1088
+40418,Area1WIP,01-01-2025 12:07,,MOLDPD - Molding Per Description,,Scrap,True,jhancock,ITM1000
+40419,Area1WIP,02-01-2025 05:37,,PROTSTIFF - Production Test Soft,,Return to Supplier,True,jsmith,ITM1081
+40420,Area3WIP,02-01-2025 07:50,,APPPD - Appearance Per Description (Non-Molding),,Correct Paperwork,True,mking,ITM1099
+40421,Area6WIP,02-01-2025 09:18,,COMPHD - Compound High Durometer,,Scrap,True,mdamon,ITM1069
+40422,Area6WIP,02-01-2025 20:01,,PROTSOFT - Production Test Soft,,Rework,True,mdamon,ITM1067
+40423,STOCK,02-01-2025 23:51,,MOLDPD - Molding Per Description,,Correct Paperwork,True,wdubois,ITM1073
+40424,Area6WIP,03-01-2025 08:41,,COMPHD - Compound High Durometer,,Rework,True,mdamon,ITM1001
+40425,Area1WIP,03-01-2025 14:35,,MARKNS - Marking Not to specification,,Rework,True,epoe,ITM1087
+40426,Area6WIP,03-01-2025 22:05,,MARKD - Marking Incorrect date code,,Rework,True,jhancock,ITM1094
+40427,Area2WIP,04-01-2025 00:35,,MARKD - Marking Incorrect date code,,Rework,True,pbergeron,ITM1097
+40428,Area5WIP,04-01-2025 03:12,,MOLDPD - Molding Per Description,,Return to Supplier,True,kvella,ITM1045
+40429,Area7WIP,04-01-2025 07:36,,ESL - Expired Shelf Life,,Disagree,True,jhancock,ITM1057
+40430,SUPPLIER,04-01-2025 08:17,,MOLDPD - Molding Per Description,,Scrap,True,jhancock,ITM1026
+40431,Area4WIP,05-01-2025 02:35,,APPPD - Appearance Per Description (Non-Molding),,Correct Paperwork,True,brussell,ITM1041
+40432,Area6WIP,05-01-2025 10:20,,PROTSTIFF - Production Test Soft,,Disagree,True,jdoe,ITM1034
+40433,Area1WIP,06-01-2025 01:35,,MARKD - Marking Incorrect date code,,Disagree,True,borr,ITM1038
+40434,Area4WIP,06-01-2025 03:57,,MARKD - Marking Incorrect date code,,Rework,True,brussell,ITM1017
+40435,Area2WIP,06-01-2025 16:42,,MARKD - Marking Incorrect date code,,Scrap,True,remerson,ITM1034
+40436,Area3WIP,06-01-2025 21:40,,APPPD - Appearance Per Description (Non-Molding),,Rework,True,wdubois,ITM1002
+40437,SUPPLIER,07-01-2025 11:37,,MOLDNF - Molding Non-Fill,,Return to Supplier,True,remerson,ITM1057
+40438,Area1WIP,07-01-2025 13:49,,DIMGDT - Dimensional GD&T Incorrect,,Scrap,True,lbird,ITM1004
+40439,Area3WIP,07-01-2025 15:55,,ADPNL - Administrative Paperwork Not Legible,,Correct Paperwork,True,kvella,ITM1065
+40440,Area2WIP,08-01-2025 10:44,,ADNDE - Administrative Data Entry Error,,Scrap,True,brussell,ITM1024
+40441,Area4WIP,08-01-2025 11:57,,ESL - Expired Shelf Life,,Return to Supplier,True,baffleck,ITM1097
+40442,Area1WIP,08-01-2025 13:43,,MARKNS - Marking Not to specification,,Return to Supplier,True,baffleck,ITM1065
+40443,Area5WIP,08-01-2025 16:43,,APPPD - Appearance Per Description (Non-Molding),,Correct Paperwork,True,lbird,ITM1017
+40444,Area2WIP,08-01-2025 17:18,,DIMGDT - Dimensional GD&T Incorrect,,Return to Supplier,True,baffleck,ITM1004
+40445,CUSTOMER,08-01-2025 22:49,,BATTSOFT - Batch Test Soft,,Scrap,True,borr,ITM1078
+40446,CUSTOMER,08-01-2025 23:54,,MARKNS - Marking Not to specification,,Return to Supplier,True,baffleck,ITM1079
+40447,Area3WIP,09-01-2025 15:25,,PROTSOFT - Production Test Soft,,Return to Supplier,True,jdoe,ITM1079
+40448,Area1WIP,10-01-2025 03:24,,BATTSTIFF - Batch Test Stiff,,Rework,True,jdoe,ITM1041
+40449,FINALINSP,10-01-2025 07:04,,MARKNS - Marking Not to specification,,Scrap,True,pbergeron,ITM1023
+40450,FINALINSP,10-01-2025 13:35,,BATTSTIFF - Batch Test Stiff,,Rework,True,wdubois,ITM1090
+40451,Area2WIP,10-01-2025 17:34,,PROTSTIFF - Production Test Soft,,Disagree,True,jsmith,ITM1006
+40452,Area6WIP,10-01-2025 19:57,,BATTSTIFF - Batch Test Stiff,,Disagree,True,mdamon,ITM1034
+40453,SUPPLIER,11-01-2025 00:26,,MARKD - Marking Incorrect date code,,Return to Supplier,True,dortiz,ITM1070
+40454,SUPPLIER,11-01-2025 01:46,,MARKD - Marking Incorrect date code,,Disagree,True,tbrady,ITM1007
+40455,Area3WIP,11-01-2025 08:54,,COMPHD - Compound High Durometer,,Correct Paperwork,True,borr,ITM1062
+40456,Area5WIP,11-01-2025 18:43,,BATTSOFT - Batch Test Soft,,Return to Supplier,True,epoe,ITM1050
+40457,SUPPLIER,11-01-2025 21:36,,APPPD - Appearance Per Description (Non-Molding),,Correct Paperwork,True,brussell,ITM1065
+40458,STOCK,11-01-2025 23:41,,BATTSOFT - Batch Test Soft,,Disagree,True,wdubois,ITM1023
+40459,Area1WIP,12-01-2025 00:01,,MOLDNF - Molding Non-Fill,,Correct Paperwork,True,tbrady,ITM1059
+40460,Area4WIP,12-01-2025 01:15,,ADPNL - Administrative Paperwork Not Legible,,Return to Supplier,True,sadams,ITM1000
+40461,Area6WIP,12-01-2025 01:25,,MARKNS - Marking Not to specification,,Scrap,True,jsmith,ITM1001
+40462,CUSTOMER,12-01-2025 09:59,,BATTSOFT - Batch Test Soft,,Correct Paperwork,True,tbrady,ITM1028
+40463,Area5WIP,12-01-2025 19:28,,MOLDPD - Molding Per Description,,Return to Supplier,True,brussell,ITM1013
+40464,SUPPLIER,12-01-2025 22:27,,ADPNL - Administrative Paperwork Not Legible,,Rework,True,kvella,ITM1065
+40465,Area7WIP,13-01-2025 11:59,,DIMGDT - Dimensional GD&T Incorrect,,Rework,True,pbergeron,ITM1042
+40466,Area7WIP,13-01-2025 14:56,,ESL - Expired Shelf Life,,Rework,True,tbrady,ITM1013
+40467,FINALINSP,14-01-2025 01:54,,BATTSOFT - Batch Test Soft,,Return to Supplier,True,dortiz,ITM1053
+40468,Area2WIP,14-01-2025 02:53,,ESL - Expired Shelf Life,,Rework,True,brussell,ITM1022
+40469,FINALINSP,14-01-2025 03:16,,MARKD - Marking Incorrect date code,,Rework,True,sadams,ITM1098
+40470,CUSTOMER,14-01-2025 04:20,,DIMGDT - Dimensional GD&T Incorrect,,Correct Paperwork,True,jhancock,ITM1011
+40471,Area4WIP,14-01-2025 16:11,,PROTSTIFF - Production Test Soft,,Disagree,True,sadams,ITM1057
+40472,Area1WIP,14-01-2025 17:44,,ADNDE - Administrative Data Entry Error,,Scrap,True,lbird,ITM1088
+40473,STOCK,14-01-2025 21:55,,ESL - Expired Shelf Life,,Return to Supplier,True,mdamon,ITM1070
+40474,Area2WIP,15-01-2025 04:49,,MARKD - Marking Incorrect date code,,Scrap,True,epoe,ITM1023
+40475,Area2WIP,15-01-2025 13:48,,MARKNS - Marking Not to specification,,Disagree,True,epoe,ITM1016
+40476,STOCK,15-01-2025 18:29,,COMPHD - Compound High Durometer,,Correct Paperwork,True,borr,ITM1031
+40477,Area1WIP,15-01-2025 22:05,,APPPD - Appearance Per Description (Non-Molding),,Scrap,True,tbrady,ITM1049
+40478,Area6WIP,15-01-2025 22:47,,MOLDPD - Molding Per Description,,Rework,True,jsmith,ITM1001
+40479,Area5WIP,16-01-2025 01:10,,APPPD - Appearance Per Description (Non-Molding),,Disagree,True,baffleck,ITM1034
+40480,CUSTOMER,16-01-2025 03:26,,PROTSTIFF - Production Test Soft,,Correct Paperwork,True,jdoe,ITM1017
+40481,SUPPLIER,16-01-2025 04:01,,MARKD - Marking Incorrect date code,,Scrap,True,wdubois,ITM1035
+40482,FINALINSP,16-01-2025 08:04,,MOLDPD - Molding Per Description,,Return to Supplier,True,baffleck,ITM1042
+40483,Area7WIP,16-01-2025 12:35,,DIMGDT - Dimensional GD&T Incorrect,,Correct Paperwork,True,lbird,ITM1017
+40484,Area3WIP,16-01-2025 17:02,,BATTSOFT - Batch Test Soft,,Scrap,True,bfranklin,ITM1034
+40485,CUSTOMER,16-01-2025 20:56,,COMPHD - Compound High Durometer,,Correct Paperwork,True,sadams,ITM1053
+40486,Area3WIP,17-01-2025 05:18,,ADPNL - Administrative Paperwork Not Legible,,Return to Supplier,True,baffleck,ITM1044
+40487,Area5WIP,17-01-2025 09:17,,PROTSOFT - Production Test Soft,,Disagree,True,remerson,ITM1047
+40488,Area7WIP,17-01-2025 14:59,,APPPD - Appearance Per Description (Non-Molding),,Disagree,True,pbergeron,ITM1018
+40489,Area4WIP,17-01-2025 17:51,,ESL - Expired Shelf Life,,Disagree,True,jdoe,ITM1023
+40490,STOCK,17-01-2025 23:25,,ADPNL - Administrative Paperwork Not Legible,,Return to Supplier,True,kvella,ITM1078
+40491,CUSTOMER,18-01-2025 15:15,,BATTSTIFF - Batch Test Stiff,,Scrap,True,bfranklin,ITM1028
+40492,Area2WIP,18-01-2025 17:22,,MARKNS - Marking Not to specification,,Return to Supplier,True,kvella,ITM1071
+40493,Area1WIP,18-01-2025 21:54,,MOLDNF - Molding Non-Fill,,Rework,True,jsmith,ITM1056
+40494,Area3WIP,19-01-2025 09:24,,APPPD - Appearance Per Description (Non-Molding),,Rework,True,baffleck,ITM1100
+40495,Area6WIP,19-01-2025 13:34,,PROTSTIFF - Production Test Soft,,Disagree,True,baffleck,ITM1020
+40496,Area6WIP,19-01-2025 16:15,,MARKNS - Marking Not to specification,,Correct Paperwork,True,sadams,ITM1100
+40497,Area6WIP,19-01-2025 16:37,,MOLDNF - Molding Non-Fill,,Correct Paperwork,True,jdoe,ITM1048
+40498,FINALINSP,20-01-2025 03:58,,BATTSTIFF - Batch Test Stiff,,Correct Paperwork,True,jhancock,ITM1086
+40499,Area3WIP,20-01-2025 18:24,,DIMGDT - Dimensional GD&T Incorrect,,Return to Supplier,True,tbrady,ITM1037
+40500,SUPPLIER,20-01-2025 19:31,,ADNDE - Administrative Data Entry Error,,Disagree,True,dortiz,ITM1053
+40501,Area2WIP,20-01-2025 20:32,,MOLDPD - Molding Per Description,,Disagree,True,pbergeron,ITM1070
+40502,FINALINSP,20-01-2025 23:43,,MARKD - Marking Incorrect date code,,Rework,True,baffleck,ITM1057
+40503,Area4WIP,21-01-2025 14:11,,PROTSOFT - Production Test Soft,,Correct Paperwork,True,jhancock,ITM1098
+40504,Area1WIP,21-01-2025 15:40,,APPPD - Appearance Per Description (Non-Molding),,Disagree,True,mking,ITM1059
+40505,Area7WIP,22-01-2025 13:31,,COMPHD - Compound High Durometer,,Disagree,True,kvella,ITM1022
+40506,Area5WIP,23-01-2025 07:31,,DIMGDT - Dimensional GD&T Incorrect,,Return to Supplier,True,mking,ITM1048
+40507,CUSTOMER,23-01-2025 10:17,,BATTSOFT - Batch Test Soft,,Scrap,True,sadams,ITM1087
+40508,CUSTOMER,23-01-2025 20:18,,MOLDNF - Molding Non-Fill,,Scrap,True,borr,ITM1091
+40509,Area1WIP,24-01-2025 10:16,,ESL - Expired Shelf Life,,Return to Supplier,True,bfranklin,ITM1025
+40510,Area7WIP,24-01-2025 14:12,,ESL - Expired Shelf Life,,Scrap,True,bfranklin,ITM1044
+40511,SUPPLIER,24-01-2025 17:23,,MARKNS - Marking Not to specification,,Rework,True,mking,ITM1025
+40512,Area6WIP,24-01-2025 21:17,,COMPHD - Compound High Durometer,,Correct Paperwork,True,brussell,ITM1028
+40513,STOCK,25-01-2025 13:31,,ADPNL - Administrative Paperwork Not Legible,,Disagree,True,pbergeron,ITM1048
+40514,CUSTOMER,25-01-2025 17:30,,MOLDPD - Molding Per Description,,Correct Paperwork,True,tbrady,ITM1094
+40515,Area7WIP,25-01-2025 18:57,,ADNDE - Administrative Data Entry Error,,Rework,True,jsmith,ITM1035
+40516,Area1WIP,26-01-2025 02:35,,ESL - Expired Shelf Life,,Correct Paperwork,True,sadams,ITM1100
+40517,Area1WIP,26-01-2025 03:22,,COMPHD - Compound High Durometer,,Scrap,True,brussell,ITM1056
+40518,SUPPLIER,26-01-2025 03:41,,PROTSOFT - Production Test Soft,,Rework,True,remerson,ITM1028
+40519,Area7WIP,26-01-2025 04:07,,PROTSOFT - Production Test Soft,,Disagree,True,sadams,ITM1100
+40520,Area2WIP,26-01-2025 08:42,,MARKD - Marking Incorrect date code,,Return to Supplier,True,borr,ITM1011
+40521,Area1WIP,27-01-2025 01:09,,MOLDNF - Molding Non-Fill,,Disagree,True,remerson,ITM1064
+40522,CUSTOMER,27-01-2025 02:57,,BATTSTIFF - Batch Test Stiff,,Correct Paperwork,True,borr,ITM1057
+40523,Area7WIP,27-01-2025 11:29,,DIMGDT - Dimensional GD&T Incorrect,,Disagree,True,pbergeron,ITM1058
+40524,Area7WIP,27-01-2025 20:04,,ADNDE - Administrative Data Entry Error,,Return to Supplier,True,remerson,ITM1018
+40525,CUSTOMER,27-01-2025 20:47,,COMPHD - Compound High Durometer,,Scrap,True,jhancock,ITM1070
+40526,Area7WIP,28-01-2025 03:51,,ADNDE - Administrative Data Entry Error,,Scrap,True,jhancock,ITM1038
+40527,CUSTOMER,28-01-2025 11:06,,DIMGDT - Dimensional GD&T Incorrect,,Rework,True,jdoe,ITM1079
+40528,Area7WIP,29-01-2025 00:53,,MARKNS - Marking Not to specification,,Correct Paperwork,True,epoe,ITM1080
+40529,Area7WIP,29-01-2025 05:46,,MOLDPD - Molding Per Description,,Correct Paperwork,True,tbrady,ITM1091
+40530,Area1WIP,29-01-2025 07:23,,PROTSTIFF - Production Test Soft,,Correct Paperwork,True,lbird,ITM1075
+40531,FINALINSP,29-01-2025 12:08,,DIMGDT - Dimensional GD&T Incorrect,,Correct Paperwork,True,mdamon,ITM1095
+40532,STOCK,29-01-2025 12:19,,PROTSOFT - Production Test Soft,,Disagree,True,borr,ITM1085
+40533,Area6WIP,29-01-2025 12:36,,ESL - Expired Shelf Life,,Disagree,True,pbergeron,ITM1000
+40534,FINALINSP,29-01-2025 13:25,,APPPD - Appearance Per Description (Non-Molding),,Correct Paperwork,True,wdubois,ITM1020
+40535,Area3WIP,29-01-2025 16:19,,BATTSOFT - Batch Test Soft,,Correct Paperwork,True,brussell,ITM1094
+40536,Area7WIP,29-01-2025 19:58,,MARKD - Marking Incorrect date code,,Scrap,True,borr,ITM1054
+40537,Area1WIP,30-01-2025 00:18,,ADNDE - Administrative Data Entry Error,,Disagree,True,jsmith,ITM1078
+40538,Area3WIP,30-01-2025 02:05,,MARKNS - Marking Not to specification,,Correct Paperwork,True,sadams,ITM1056
+40539,Area7WIP,30-01-2025 02:32,,MARKD - Marking Incorrect date code,,Return to Supplier,True,lbird,ITM1095
+40540,CUSTOMER,30-01-2025 05:27,,DIMGDT - Dimensional GD&T Incorrect,,Scrap,True,kvella,ITM1090
+40541,SUPPLIER,30-01-2025 05:28,,PROTSTIFF - Production Test Soft,,Disagree,True,borr,ITM1071
+40542,FINALINSP,30-01-2025 05:38,,PROTSOFT - Production Test Soft,,Correct Paperwork,True,mking,ITM1032
+40543,Area3WIP,30-01-2025 08:49,,ESL - Expired Shelf Life,,Rework,True,tbrady,ITM1085
+40544,Area3WIP,30-01-2025 08:55,,MARKD - Marking Incorrect date code,,Scrap,True,wdubois,ITM1044
+40545,SUPPLIER,30-01-2025 09:27,,ESL - Expired Shelf Life,,Correct Paperwork,True,bfranklin,ITM1044
+40546,Area1WIP,30-01-2025 10:12,,ADPNL - Administrative Paperwork Not Legible,,Rework,True,jdoe,ITM1008
+40547,STOCK,30-01-2025 11:26,,PROTSOFT - Production Test Soft,,Rework,True,borr,ITM1009
+40548,Area1WIP,30-01-2025 18:17,,PROTSOFT - Production Test Soft,,Rework,True,wdubois,ITM1053
+40549,Area7WIP,30-01-2025 21:26,,BATTSTIFF - Batch Test Stiff,,Scrap,True,brussell,ITM1076
